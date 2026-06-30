@@ -1,0 +1,42 @@
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\bin\Debug\БД.accdb
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\bin\Debug\AttractionParkApp_v2.exe.config
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\bin\Debug\AttractionParkApp_v2.exe
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\bin\Debug\AttractionParkApp_v2.pdb
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.csproj.AssemblyReference.cache
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormOperator.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormTechnician.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormRegister.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormLogin.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormVisitor.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormTickets.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.Form1.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormAttractions.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormIncidents.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormUsers.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.Properties.Resources.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.csproj.GenerateResource.cache
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.csproj.CoreCompileInputs.cache
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp_v2.exe
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp_v2.pdb
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormMyTickets.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\bin\Debug\БД.accdb
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\bin\Debug\AttractionParkApp_v2.exe.config
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\bin\Debug\AttractionParkApp_v2.exe
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\bin\Debug\AttractionParkApp_v2.pdb
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.csproj.AssemblyReference.cache
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormMyTickets.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormOperator.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormTechnician.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormRegister.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormLogin.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormVisitor.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormTickets.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.Form1.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormAttractions.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormIncidents.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.FormUsers.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.Properties.Resources.resources
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.csproj.GenerateResource.cache
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp.csproj.CoreCompileInputs.cache
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp_v2.exe
+E:\копия ПО\Перевозчиков\AttractionParkApp_v2\obj\x86\Debug\AttractionParkApp_v2.pdb
