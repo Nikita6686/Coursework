@@ -1,0 +1,31 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormAttractions.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\bin\Debug\БД.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\bin\Debug\AttractionParkApp.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\bin\Debug\AttractionParkApp.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\bin\Debug\AttractionParkApp.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormIncidents.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32\Краснопёров курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormUsers.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\bin\Debug\БД.accdb
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\bin\Debug\AttractionParkApp.exe.config
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\bin\Debug\AttractionParkApp.exe
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\bin\Debug\AttractionParkApp.pdb
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.csproj.AssemblyReference.cache
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.Form1.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormAttractions.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormIncidents.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormUsers.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.Properties.Resources.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.csproj.GenerateResource.cache
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.csproj.CoreCompileInputs.cache
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.exe
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.pdb
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormLogin.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormVisitor.resources
+c:\Users\Никита\Desktop\Курсовая\Перевозчиков\AttractionParkApp\obj\Debug\AttractionParkApp.FormTickets.resources
